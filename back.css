@@ -1,0 +1,9 @@
+body{
+  background-color: rgba(130, 230,232);
+}
+p {
+  color: red;
+  font-size: 45px;
+}
+
+<script src="work.js"></script>
